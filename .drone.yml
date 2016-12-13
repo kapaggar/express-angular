@@ -5,4 +5,4 @@ publish:
    email: $$DOCKER_EMAIL
    repo: wizni/express
    tag: latest
-   insecure: true
+   insecure: false
